@@ -1,0 +1,34 @@
+body {
+    background-image: url('bg.jpg');
+}
+
+#sec1 {
+    background-color: aqua;
+}
+
+.heading_div {
+    float: none;
+    background-color: white;
+    text-shadow: 2px 2px 2px grey;
+    color: greenyellow;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+h1 {
+    color: white;
+}
+
+canvas {
+    border: 5px white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 160px;
+}
+
+.copy_right_footer {
+    background-color: gray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
